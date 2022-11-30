@@ -22,5 +22,9 @@
   "homepage": "https://github.com/isinicolle/sound-electronjs#readme",
   "devDependencies": {
     "electron": "^22.0.0"
+  },
+  "dependencies": {
+    "loudness": "^0.4.1",
+    "mwl-loudness": "^0.3.0"
   }
 }
