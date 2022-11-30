@@ -1,0 +1,22 @@
+{
+  "name": "sound-electronjs",
+  "version": "1.0.0",
+  "description": "sound volumen system",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isinicolle/sound-electronjs.git"
+  },
+  "keywords": [
+    "electronjs"
+  ],
+  "author": "isinicolle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isinicolle/sound-electronjs/issues"
+  },
+  "homepage": "https://github.com/isinicolle/sound-electronjs#readme"
+}
